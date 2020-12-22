@@ -10,7 +10,7 @@ choco install winrar -y
 choco install vlc -y
 choco install git.install -y
 choco install putty.install -y
-choco install nodejs.install -y
+choco install nodejs-lts -y
 choco install skype -y
 choco install ccleaner -y
 choco install dropbox -y
